@@ -152,8 +152,8 @@ function NavBar() {
       <div
         className={
           nav
-            ? "bg-[#00102E] w-[80vw] h-[740px] z-50 md:hidden block  text-white transition-all ease-in-out duration-500 absolute"
-            : "bg-[#00102E] w-[0vw]  h-[740px] z-50     md:hidden block    text-transparent transition-all ease-in-out duration-500 absolute"
+            ? "bg-[#00102E] w-[80vw] h-[800px] z-50 md:hidden block  text-white transition-all ease-in-out duration-500 absolute"
+            : "bg-[#00102E] w-[0vw]  h-[800px] z-50     md:hidden block    text-transparent transition-all ease-in-out duration-500 absolute"
         }
         id="nav"
       >
